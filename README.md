@@ -49,8 +49,6 @@ I'm doing this as a hobby ngl
 ### 🎨 [DasiaAIO Frontend](https://github.com/Cloudyrowdyyy/DasiaAIO-Frontend)
 > **Modern React + TypeScript Frontend**
 
-A responsive, user-friendly frontend built with React 18, TypeScript, and Vite. Features comprehensive testing coverage and modern development practices.
-
 **Highlights:**
 - ⚛️ React 18 with TypeScript for type safety
 - ⚡ Vite for lightning-fast development
@@ -62,8 +60,6 @@ A responsive, user-friendly frontend built with React 18, TypeScript, and Vite. 
 
 ### ⚙️ [DasiaAIO Backend](https://github.com/Cloudyrowdyyy/DasiaAIO-Backend)
 > **High-Performance Rust API Server**
-
-A blazingly fast, secure backend API built with Rust and Axum framework. Designed for reliability and performance.
 
 **Highlights:**
 - 🦀 Written in Rust for memory safety and performance
@@ -89,6 +85,6 @@ A blazingly fast, secure backend API built with Rust and Axum framework. Designe
 ## 📫 Let's Connect
 
 - 💼 **GitHub:** [@Cloudyrowdyyy](https://github.com/Cloudyrowdyyy)
-- 📧 **Email:** [@dkbgagaa](https://gmail.com)
+- 📧 **Email:** [@dkbgagaa@gmail.com](https://gmail.com)
 - 🌐 **Portfolio:** [DASIA AIO Live Demo](https://dasiaaio.up.railway.app)
 
