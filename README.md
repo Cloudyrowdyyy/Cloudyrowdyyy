@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Cloudyrowdyyy
 
-### Full-Stack Developer | Rust Enthusiast | System Architect
+### Tryhard Full-stack developer
 
 [![GitHub followers](https://img.shields.io/github/followers/Cloudyrowdyyy?style=social)](https://github.com/Cloudyrowdyyy)
 [![GitHub stars](https://img.shields.io/github/stars/Cloudyrowdyyy?style=social)](https://github.com/Cloudyrowdyyy)
@@ -13,12 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer specializing in building robust, scalable enterprise applications. I combine modern frontend frameworks with high-performance backend systems to create comprehensive solutions that solve real-world problems.
-
-- 🔭 **Currently working on:** DASIA AIO - A comprehensive asset management and operations platform
-- 🌱 **Learning:** Advanced Rust patterns, System Design, and Cloud Architecture
-- 💼 **Focus Areas:** Full-stack development, API design, Database optimization
-- ⚡ **Fun fact:** I love building systems that make complex operations simple and efficient
+I'm doing this as a hobby ngl 
 
 ---
 
@@ -50,23 +45,6 @@ I'm a passionate full-stack developer specializing in building robust, scalable 
 
 ## 💼 Featured Projects
 
-### 🎯 [DASIA AIO Management System](https://github.com/Cloudyrowdyyy/capstone-1.0)
-> **Comprehensive Asset Management & Operations Platform**
-
-A full-stack enterprise application for managing assets, inventory, and operations with advanced features.
-
-**Tech Stack:** React 18 + TypeScript + Rust + PostgreSQL + Docker
-
-**Key Features:**
-- 🔐 Secure authentication system with email verification
-- 📊 Real-time asset tracking and management
-- 🔫 Firearm allocation and tracking system
-- 👥 Guard replacement and scheduling
-- 📱 Responsive, modern UI with TailwindCSS
-
-**Live Demo:** [https://dasiaaio.up.railway.app](https://dasiaaio.up.railway.app)
-
----
 
 ### 🎨 [DasiaAIO Frontend](https://github.com/Cloudyrowdyyy/DasiaAIO-Frontend)
 > **Modern React + TypeScript Frontend**
@@ -97,39 +75,6 @@ A blazingly fast, secure backend API built with Rust and Axum framework. Designe
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cloudyrowdyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudyrowdyyy&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloudyrowdyyy&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-```rust
-// Currently building...
-struct CurrentProjects {
-    main_focus: "DASIA AIO Management System",
-    learning: vec!["Advanced Rust", "System Design", "Cloud Architecture"],
-    exploring: vec!["WebAssembly", "Microservices", "Kubernetes"],
-}
-
-impl CurrentProjects {
-    fn get_passion(&self) -> &str {
-        "Building elegant solutions to complex problems"
-    }
-}
-```
-
----
-
 ## 🌟 Core Competencies
 
 - **Full-Stack Development**: End-to-end application development from database to UI
@@ -144,21 +89,6 @@ impl CurrentProjects {
 ## 📫 Let's Connect
 
 - 💼 **GitHub:** [@Cloudyrowdyyy](https://github.com/Cloudyrowdyyy)
-- 📧 **Email:** Available upon request
+- 📧 **Email:** [@Dwight Karl](dkbgagaa@gmail.com)
 - 🌐 **Portfolio:** [DASIA AIO Live Demo](https://dasiaaio.up.railway.app)
 
----
-
-<div align="center">
-
-### 💡 Open to Collaboration
-
-I'm always interested in working on innovative projects that push the boundaries of technology. If you have an interesting project or opportunity, feel free to reach out!
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Cloudyrowdyyy&color=blueviolet&style=flat-square)
-
-**⭐ From [Cloudyrowdyyy](https://github.com/Cloudyrowdyyy)**
-
-</div>
