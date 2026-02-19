@@ -89,6 +89,6 @@ A blazingly fast, secure backend API built with Rust and Axum framework. Designe
 ## 📫 Let's Connect
 
 - 💼 **GitHub:** [@Cloudyrowdyyy](https://github.com/Cloudyrowdyyy)
-- 📧 **Email:** [@Dwight Karl](dkbgagaa@gmail.com)
+- 📧 **Email:** [@dkbgagaa](https://gmail.com)
 - 🌐 **Portfolio:** [DASIA AIO Live Demo](https://dasiaaio.up.railway.app)
 
