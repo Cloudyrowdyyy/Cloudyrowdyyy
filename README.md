@@ -43,34 +43,6 @@ I'm doing this as a hobby ngl
 
 ---
 
-## 💼 Featured Projects
-
-
-### 🎨 [DasiaAIO Frontend](https://github.com/Cloudyrowdyyy/DasiaAIO-Frontend)
-> **Modern React + TypeScript Frontend**
-
-**Highlights:**
-- ⚛️ React 18 with TypeScript for type safety
-- ⚡ Vite for lightning-fast development
-- 🎨 TailwindCSS for beautiful, responsive design
-- 🧪 Jest testing with excellent coverage
-- 📦 Docker containerization for easy deployment
-
----
-
-### ⚙️ [DasiaAIO Backend](https://github.com/Cloudyrowdyyy/DasiaAIO-Backend)
-> **High-Performance Rust API Server**
-
-**Highlights:**
-- 🦀 Written in Rust for memory safety and performance
-- 🚀 Axum framework for async web services
-- 🗄️ PostgreSQL with optimized queries
-- 📧 Email verification system with Gmail integration
-- 🔒 Secure authentication and authorization
-- 🐳 Docker support for containerized deployment
-
----
-
 ## 🌟 Core Competencies
 
 - **Full-Stack Development**: End-to-end application development from database to UI
