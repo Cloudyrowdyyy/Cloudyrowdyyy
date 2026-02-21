@@ -43,17 +43,6 @@ I'm doing this as a hobby ngl
 
 ---
 
-## 🌟 Core Competencies
-
-- **Full-Stack Development**: End-to-end application development from database to UI
-- **System Design**: Architecting scalable, maintainable systems
-- **API Development**: RESTful APIs with robust error handling and validation
-- **Database Design**: PostgreSQL optimization and query performance
-- **DevOps**: Docker containerization, CI/CD pipelines, cloud deployment
-- **Testing**: Unit tests, integration tests, test-driven development
-
----
-
 ## 📫 Let's Connect
 
 - 💼 **GitHub:** [@Cloudyrowdyyy](https://github.com/Cloudyrowdyyy)
